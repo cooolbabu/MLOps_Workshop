@@ -44,3 +44,11 @@ Azure Machine Learning provides the following MLOps capabilities:
 
 ![ML Lifecycle](./architecture/ml-lifecycle.png)
 
+
+## Quick Reference Azure CLI Commands
+- az extension list
+- az account set -s aml-sub-101
+- az ml workspace create --resource-group rg-aml-102 --display-name ws-aml-102-1 --name ws-aml-102-1 -l eastus
+- 
+
+
